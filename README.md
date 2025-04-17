@@ -29,3 +29,11 @@ Logistic Regression is often cited as the go-to model for binary classification,
 
 - **Preprocessing & Decision Tree Model:** Building and tuning a Decision Tree model, including hyperparameter optimization using GridSearchCV.
   - [Decision Tree model](Pre-Processing-Decision_Tree_Model.ipynb)
+ 
+### Project Findings
+
+Given the small size of the dataset, I anticipated it would be challenging to clearly demonstrate a definitive advantage for one model over the other.
+
+However, Logistic Regression outperformed Decision Trees on the test set, achieving an accuracy of 86%, while both models performed reasonably well considering the limited data.
+
+In my professional opinion, I prefer Logistic Regression for binary classification tasks due to its simplicity, interpretability, and consistent performance — especially on smaller datasets.
