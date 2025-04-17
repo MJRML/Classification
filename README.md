@@ -9,15 +9,15 @@ I selected this dataset to showcase my ability to handle imperfect data — part
 Logistic Regression is often cited as the go-to model for binary classification, while Decision Trees are frequently recommended for multiclass tasks. However, I wanted to put this theory to the test and explore how each model performs under the same conditions, using carefully tuned parameters and the same data preprocessing pipeline.
 
 ###  Project Overview
-- Data Preprocessing: I demonstrate thorough preprocessing techniques, including handling missing values and encoding categorical features, with a focus on preserving as much of the original data as possible.
+- **Data Preprocessing:** I demonstrate thorough preprocessing techniques, including handling missing values and encoding categorical features, with a focus on preserving as much of the original data as possible.
 
-- Analytical Thinking: This project reflects my analytical mindset, as I explore model behavior and performance on a small dataset, carefully balancing complexity and generalizability.
+- **Analytical Thinking:** This project reflects my analytical mindset, as I explore model behavior and performance on a small dataset, carefully balancing complexity and generalizability.
 
-- Python Proficiency: My code is clearly commented to demonstrate understanding — possibly a bit over-commented to ensure transparency 😄.
+- **Python Proficiency:** My code is clearly commented to demonstrate understanding — possibly a bit over-commented to ensure transparency 😄.
 
-- Model Serialization: In the Logistic Regression section, I use Pickle to serialize and deserialize the trained model, showing how to save a model and reload it to make predictions on new data.
+- **Model Serialization:** In the Logistic Regression section, I use Pickle to serialize and deserialize the trained model, showing how to save a model and reload it to make predictions on new data.
 
-- Hyperparameter Tuning: For the Decision Tree model, I demonstrate the use of GridSearchCV to identify the optimal set of hyperparameters, ensuring the model is well-tuned for the dataset.
+- **Hyperparameter Tuning:** For the Decision Tree model, I demonstrate the use of GridSearchCV to identify the optimal set of hyperparameters, ensuring the model is well-tuned for the dataset.
 
 ## The project is organized into the following sections:
 
